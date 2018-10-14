@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1539523904 source:/home/anna/Documents/egyetem/ACM/algo/matrices/main.cpp
+	<iostream>
+	"matrix.h"
+
+1539524109 /home/anna/Documents/egyetem/ACM/algo/matrices/include/matrix.h
+	<iostream>
+	<initializer_list>
+	<array>
+	<cassert>
+
